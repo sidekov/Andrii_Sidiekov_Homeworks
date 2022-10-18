@@ -31,7 +31,8 @@
                 // </html>
 
 
-                // let name = "Andrii";
+                // let name = prompt ("Input your name:");
+                // alert(name);
                 // console.log(name);
 
 /* Task 3.  a) оголосіть дві змінні;
