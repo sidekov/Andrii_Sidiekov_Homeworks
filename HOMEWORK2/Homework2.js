@@ -141,7 +141,7 @@
                 //         let p = (+side_a + +side_b + +side_c)/2;                        //змінюємо тип змінної на number і підсумовуємо
                 //         let s = Math.sqrt (p*(p - side_a)*(p - side_b)*(p - side_c));   //квадратний корень
                 //         console.log("Площа трикутника = " + s.toFixed(3));              //округляем до 3 знака   
-                //     if (side_a**2 === side_b**2 + side_c**2) {
+                //     if ((side_a**2).toFixed(3) === (side_b**2 + side_c**2).toFixed(3)) {
                 //         console.log ("Трикутний прямокутний");
                 // }   else {
                 //         console.log ("Трикутник НЕ прямокутний");
